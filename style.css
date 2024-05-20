@@ -1,0 +1,61 @@
+.header{
+    background-color: rgb(231, 207, 170);
+    display: flex;
+    
+}
+
+
+.title{
+    position: absolute;
+
+    top: 15%;
+    
+    left: 60%;
+    
+    transform: translate(-50%, -50%);
+}
+
+.text{
+    position: absolute;
+
+    top: 44%;
+    
+    left: 63%;
+    
+    transform: translate(-50%, -50%);
+}
+
+head{
+    background-color: rgb(126, 105, 105);
+}
+
+body{
+    background-color: rgb(197, 105, 105);
+}
+
+.body{
+    position: absolute;
+
+    top: 28%;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 45px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+p{
+    font-size: 23px;
+}
+
+
+
+
+
