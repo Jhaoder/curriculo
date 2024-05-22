@@ -37,6 +37,7 @@ body{
     position: absolute;
 
     top: 28%;
+    left: -2%;
 }
 
 #data{
@@ -67,6 +68,9 @@ p{
     font-size: 23px;
 }
 
+li{
+   list-style-type: none;
+}
 
 
 
